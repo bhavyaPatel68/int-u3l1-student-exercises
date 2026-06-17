@@ -18,3 +18,6 @@ favoriteFood = "pizza";
 favoriteNumber = "67";
 
 // 4. Console log each variable on a new line.
+console.log(favoriteColor)
+console.log(favoriteFood)
+console.log(favoriteNumber)
